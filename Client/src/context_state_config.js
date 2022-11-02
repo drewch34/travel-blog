@@ -2,9 +2,9 @@ import React, { useReducer } from 'react';
 import Context from './utils/context';
 import * as ACTIONS from './store/actions/actions';
 
-import * as Reducer1 from './store/reducers/plain_reducer';
-import * as AuthReducer from './store/reducers/auth_reducer';
-import * as FormReducer from './store/reducers/form_reducer';
+import * as Reducer1 from '/Users/drewhines/Desktop/projects/travel-blog/travel-blog/Client/src/store/actions/reducers/plain_reducer.js';
+import * as AuthReducer from '/Users/drewhines/Desktop/projects/travel-blog/travel-blog/Client/src/store/actions/reducers/auth_reducer.js';
+import * as FormReducer from '/Users/drewhines/Desktop/projects/travel-blog/travel-blog/Client/src/store/actions/reducers/form_reducer.js';
 import Routes from './routes';
 
 import Auth from './utils/auth';

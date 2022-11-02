@@ -1,6 +1,6 @@
 import React, { useContext, useState, useReducer } from 'react';
 import * as ACTIONS from '../store/actions/actions';
-import * as FormReducer from '../store/reducers/form_reducer';
+import * as FormReducer from '/Users/drewhines/Desktop/projects/travel-blog/travel-blog/Client/src/store/actions/reducers/form_reducer.js';
 import Context from '../utils/context';
 
 

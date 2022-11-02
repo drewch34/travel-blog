@@ -1,4 +1,4 @@
-import * as ACTION_TYPES from '../actions/action_types'
+import * as ACTION_TYPES from '/Users/drewhines/Desktop/projects/travel-blog/travel-blog/Client/src/store/actions/action_types.js'
 
 
 export const initialState = {

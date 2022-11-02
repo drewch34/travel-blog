@@ -1,6 +1,6 @@
 import React, { useContext, useState, useEffect, useReducer } from 'react';
 import * as ACTIONS from '../store/actions/actions';
-import * as Reducer1 from '../store/reducers/plain_reducer';
+import * as Reducer1 from '/Users/drewhines/Desktop/projects/travel-blog/travel-blog/Client/src/store/actions/reducers/plain_reducer.js';
 import Context from '../utils/context';
 
 
